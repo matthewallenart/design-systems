@@ -1,0 +1,23 @@
+Name,Creator/Company,Platform/Focus,Notable Features,Website
+Material Design,Google,Android/Web,Cross-platform consistency, accessibility, theming,https://m3.material.io/
+Fluent UI,Microsoft,Web/Windows,Office 365 design, accessibility, React components,https://developer.microsoft.com/en-us/fluentui
+Carbon Design System,IBM,Web,Data-heavy UI, accessibility, enterprise focus,https://carbondesignsystem.com
+Atlassian Design System,Atlassian,Web/Products like Jira and Confluence,Component library, UX guidelines,https://atlassian.design
+Lightning Design System,Salesforce,CRM interfaces, Web,Mobile-first components, accessibility,https://www.lightningdesignsystem.com/
+Polaris,Shopify,eCommerce/Admin tools,Merchant-focused patterns, React components,https://polaris.shopify.com
+Spectrum,Adobe,Web/Creative Cloud apps,Design tokens, accessibility, theming,https://spectrum.adobe.com
+Grommet,Hewlett Packard Enterprise,Web,Modular components, accessibility-first,https://v2.grommet.io
+Chakra UI,Community/Segun Adebayo,Web/React,Themeable, composable components, accessibility,https://chakra-ui.com
+Ant Design,Alibaba,Web/Enterprise apps,Enterprise-ready, large component library,https://ant.design
+Base Web,Uber,Web/React,Robust component library, customization,https://baseweb.design
+Evergreen,Segment,Web/React,Minimalist style, flexible components,https://evergreen.segment.com
+Primer,GitHub,Web,GitHub UI patterns, accessibility,https://primer.style
+Plasma,Sberbank,Web/iOS/Android,Multi-platform support for banking products,https://plasma.sberdevices.ru/
+Clarity Design System,VMware,Web,UX guidelines, Angular-based components, accessibility,https://clarity.design
+Backpack,Skyscanner,Web/iOS/Android,Travel UI components and accessibility focus,https://backpack.github.io
+Design System GOV.UK,UK Government,Web,Public service delivery, accessibility-first,https://design-system.service.gov.uk
+Mailchimp Pattern Library,Mailchimp,Web,Brand consistency for marketing tools,https://ux.mailchimp.com/patterns
+Canvas Design System,Workday,Web,Enterprise HR tools, accessibility,https://design.workday.com/canvas/
+Ring UI,JetBrains,Web/React,Focus on developer tools, lightweight,https://jetbrains.github.io/ring-ui
+B2B Design System,SAP Fiori,Enterprise,Enterprise-focused UX, modular UI,https://experience.sap.com/fiori-design-web/
+Zendesk Garden,Zendesk,Web,Customer service platform patterns,https://garden.zendesk.com
